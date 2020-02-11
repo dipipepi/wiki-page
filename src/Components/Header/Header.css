@@ -1,0 +1,10 @@
+.header > .navbar-nav{
+    flex-direction: row !important;
+}
+.header > .navbar-nav > .nav-item{
+    padding: 0 10px;
+    border-radius: 10px;
+}
+.header > .navbar-nav > .nav-item.active{
+    background-color: #d2d2ea;
+}
